@@ -1,0 +1,28 @@
+users and locked file count
+Faddams 4
+cqe_service 5
+Dbalfour 2
+svc_auto_SampleGame 672
+acampion 4
+mhammer 8
+ckennicott 4
+sdedalus 8
+lydia.languish 2
+enmerkar 5
+mthurlin 3
+jfawley 4
+hgabler 1
+--------
+list of warnings and count
+['InsecureRequestWarning']
+count of InsecureRequestWarning
+1458
+-------
+list of errors and count
+['WinError', 'JSONDecodeErrorExpecting', 'jsondecoderJSONDecodeError']
+count of WinError
+5
+count of JSONDecodeErrorExpecting
+5
+count of jsondecoderJSONDecodeError
+5
